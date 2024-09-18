@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Naylor;Kirk;;;
+FN:Kirk Naylor
+ORG:PlanEnroll Advisors
+TITLE:Personal Medicare Advisor
+TEL;TYPE=WORK,VOICE:+1-619-356-0522
+EMAIL;TYPE=PREF,INTERNET:kirk@PlanEnrollAdvisors.com
+URL:https://PlanEnrollAdvisors.com
+ADR;TYPE=WORK:;;4275 Executive Sq. Suite 200;La Jolla;CA;92037;USA
+END:VCARD
